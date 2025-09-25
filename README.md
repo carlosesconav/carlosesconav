@@ -13,7 +13,7 @@
 
   <!-- Description -->
 ```diff
-🛠️ +2 years of professional experience.
+🛠️ +3 years of professional experience.
 +  ✔️ Responsible worker.
 #  👨‍💻 Software Engineer.
 -  🚀 Optimizing web pages.
